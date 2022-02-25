@@ -42,7 +42,7 @@ Group 4 </font> </p> </hr>
 <tr>
 	<td> <br> <center> <a href="cae.html"> CAE ZOOM </a> </td>
 	<td> <br> <center> <a href="math.html"> MATH ZOOM </a>  </td>
-	<td> <br> <center> <a href="cle.html"> CLE ZOOM </a> </td>
+	<td> <br> <center> <a href="cle.html"> CLE </a> </td>
 </tr>
 </table>
 <br>
